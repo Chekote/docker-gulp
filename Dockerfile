@@ -1,4 +1,4 @@
-FROM chekote/node:5.4.1
+FROM chekote/node:5.7.0
 
 RUN npm install gulp -g
 
